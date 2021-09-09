@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+}
+
+@media (min-width: 992px){
+
+}
+
+@media (min:-width: 768px) AND (max-width:  991px){
+
+}
+
+@media (max-width:  767px){
+
+}
