@@ -1,21 +1,21 @@
-body {
+h1 {
 	text-align: center;
 }
 
-section{
+body section{
 	background-color:grey;
 }
 
-#chicken{
+body section #chicken{
 	background-color:pink;
 }
 
-#beef{
+body section #beef{
 	background-color:red;
 	color:white;
 }
 
-#sushi{
+body section #sushi{
 	background-color:yellow;
 }
 
