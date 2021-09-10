@@ -5,6 +5,7 @@ h1 {
 h2{
 	float:right;
 	width:33%;
+	border: 2px solid black;
 }
 
 body section{
@@ -12,6 +13,7 @@ body section{
 	width: 33%;
 	position:relative;
 	float:left;
+	border: 2px solid black;
 }
 
 body section #chicken{
