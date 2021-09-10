@@ -6,41 +6,90 @@ body{
 	border:none;
 	float:none;
 	text-align:center;
+	margin-bottom: 75px;
+}
+
+p{
+	font-size: 15px;
+	margin-top: 45px;
+	text-align: left;
 }
 
 h2{
 	float:right;
-	border: 2px solid black;
 	text-align:center;
+	padding-right: 40px;
+	padding-left: 40px;
+	font-size: 30px;
+	margin-top: -2px;
 }
 
 body section{
 	background-color:grey;
 	border: 5px solid black;
-	width 33%;
+	float: left;
+	position: relative;
+	margin-left: 1em;
+	padding-left: 10px;
+	margin-top: 1em;
 }
 
 body section #chicken{
+	border: 3px solid black;
 	background-color:pink;
 }
 
 body section #beef{
-	background-color:red;
+	border: 3px solid black;
+	background-color:darkred;
 	color:white;
 }
 
 body section #sushi{
+	border: 3px solid black;
 	background-color:yellow;
 }
 
 @media (min-width: 992px){
+#heading{
+	margin-bottom: 75px;
+}
+
+body section{
+	width: 30%;
+	float: left;
+	position: relative;
+	margin-left: 1em;
+	padding-left: 10px;
+}
 
 }
 
-@media (min:-width: 768px) AND (max-width:  991px){
+@media (min-width: 768px) AND (max-width:  991px){
+body section#full{
+	width: 85%;
+}
+
+body section.half{
+	width: 40%;
+	float: left;
+	position: relative;
+}
+
+p{
+	margin-top: 50px;
+}
 
 }
 
 @media (max-width:  767px){
+body section{
+	width: 90%;
+	margin-bottom: 1em;
+}
+
+#heading{
+	margin-bottom: 40px;
+}
 
 }
