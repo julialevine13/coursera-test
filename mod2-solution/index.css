@@ -17,6 +17,7 @@ h2{
 body section{
 	background-color:grey;
 	border: 5px solid black;
+	width 33%;
 }
 
 body section #chicken{
