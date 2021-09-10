@@ -20,8 +20,8 @@ body section{
 	position:relative;
 	float:left;
 	border: 5px solid black;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:10em;
+	margin-right:10em;
 }
 
 body section #chicken{
