@@ -3,7 +3,7 @@ body{
 }
 
 #heading{
-	
+	border:none;
 }
 
 h2{
@@ -14,7 +14,7 @@ h2{
 }
 
 body section{
-	background-color:grey;
+	background-color:blue;
 	position:relative;
 	width:33%;
 	float:left;
