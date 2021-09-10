@@ -1,11 +1,13 @@
-h1 {
-	text-align: center;
+#heading{
+	border:none;
+	float:auto;
 }
 
 h2{
 	float:right;
 	width:33%;
 	border: 2px solid black;
+	text-align:center;
 }
 
 body section{
