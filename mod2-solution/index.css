@@ -8,16 +8,12 @@ body{
 
 h2{
 	float:right;
-	width:33%;
 	border: 2px solid black;
 	text-align:center;
 }
 
 body section{
 	background-color:grey;
-	position:relative;
-	width:33%;
-	float:left;
 	border: 5px solid black;
 }
 
