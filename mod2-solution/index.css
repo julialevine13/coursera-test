@@ -5,6 +5,8 @@ h1 {
 body section{
 	background-color:grey;
 	width: 33%;
+	position:relative;
+	float:left;
 }
 
 body section #chicken{
