@@ -2,6 +2,23 @@ body {
 	text-align: center;
 }
 
+section{
+	background-color:grey;
+}
+
+#chicken{
+	background-color:pink;
+}
+
+#beef{
+	background-color:red;
+	color:white;
+}
+
+#sushi{
+	background-color:yellow;
+}
+
 @media (min-width: 992px){
 
 }
