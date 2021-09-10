@@ -4,6 +4,8 @@ body{
 
 #heading{
 	border:none;
+	float:none;
+	text-align:center;
 }
 
 h2{
